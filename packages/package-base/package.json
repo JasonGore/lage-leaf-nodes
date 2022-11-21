@@ -1,0 +1,11 @@
+{
+  "name": "package-base",
+  "version": "1.0.0",
+  "description": "Highlight lage behavior with leaf nodes and tasks",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "echo \"Build complete\""
+  },
+  "author": "",
+  "license": "ISC"
+}
