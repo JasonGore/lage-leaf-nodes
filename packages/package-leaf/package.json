@@ -6,6 +6,9 @@
   "scripts": {
     "build": "echo \"Build complete\""
   },
+  "dependencies": {
+    "package-base": "1.0.0"
+  },
   "author": "",
   "license": "ISC"
 }
